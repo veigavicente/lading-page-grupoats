@@ -1,0 +1,15 @@
+.container-informationTop {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(9, 9, 74);
+  color: white;
+  line-height: 20px;
+}
+
+.paragrafo-nome {
+  border-right: 1px solid white;
+padding-right: 16px;
+}
